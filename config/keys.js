@@ -1,3 +1,4 @@
 module.exports = {
-    mongoURI: 'mongodb://localhost/mernsocialapp'
+    mongoURI: 'mongodb://localhost/mernsocialapp',
+    secretOrKey: 'ninja cat'
 }
